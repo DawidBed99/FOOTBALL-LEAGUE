@@ -9,6 +9,6 @@ Program functionalities:
 - generating match pairs and entering results of each game
 - creating table based on match results
 
-# Language:
+## Language:
 
 Java
